@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbarrerepam
-- 👀 I’m interested in Backend projects
-- 🌱 I’m currently learning nodejs 
+- 👀
+- 🌱 
 
 
 <!---
